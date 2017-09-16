@@ -10,4 +10,13 @@
     <string name="dividir">dividir</string>
     <string name="primer_numero">primer_numero</string>
     <string name="segunfo_numero">Segundo_numero</string>
+    <string name="error">Digite el primer numero</string>
+    <string name="error_dos">Digite el primer dos</string>
+    <string name="error_tres">No puede dividir entre cero</string>
+    <string-array name="opciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicar</item>
+        <item>@string/dividir</item>
+    </string-array>
 </resources>
